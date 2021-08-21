@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="welcome">Welcome To Currency Converter</string>
+    <string name="hint">Enter Amount in Dollars $(1$ = 165 pkr)</string>
+    <string name="logo">Logo</string>
+
+
+</resources>
