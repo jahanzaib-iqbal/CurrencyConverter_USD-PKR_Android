@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         EditText dollarAmount = findViewById(R.id.dollarPr);
         String dollarString = dollarAmount.getText().toString();
         double dollarDouble = Double.parseDouble(dollarString);
-        double pkrDouble = dollarDouble*165;
+        double pkrDouble = dollarDouble*289;
 
         String toastText = "price in PKR = " + Double.toString(pkrDouble) + " RS";
 
